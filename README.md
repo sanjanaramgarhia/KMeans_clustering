@@ -8,9 +8,13 @@ The goal of this project is to perform customer segmentation by applying cluster
 Key steps include:
 
 Data cleaning & preprocessing
+
 Feature scaling (StandardScaler, RobustScaler, MinMaxScaler)
+
 Dimensionality reduction using Principal Component Analysis (PCA)
+
 Determining the optimal number of clusters with the Elbow Method
+
 Applying KMeans clustering and visualizing the results
 
 ⚙️ Technologies Used
