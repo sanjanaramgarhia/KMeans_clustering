@@ -26,19 +26,19 @@ Scikit-learn → scaling, PCA, clustering
 
 🚀 Workflow
 
-Data Preprocessing
-Handled missing values (filled with mean)
-Removed irrelevant columns (like CUST_ID)
-Scaling
-Compared multiple scalers: StandardScaler, RobustScaler, MinMaxScaler
-Observed how scaling methods affect cluster formation
-Dimensionality Reduction
-Applied PCA
-Retained ~90% variance with fewer components
-Clustering
-Used Elbow Method to find optimal k
-Applied KMeans with 2 clusters
-Visualized clusters along with centroids
+Data Preprocessing,
+Handled missing values (filled with mean) ,
+Removed irrelevant columns (like CUST_ID) ,
+Scaling ,
+Compared multiple scalers: StandardScaler, RobustScaler, MinMaxScaler ,
+Observed how scaling methods affect cluster formation ,
+Dimensionality Reduction ,
+Applied PCA ,
+Retained ~90% variance with fewer components ,
+Clustering ,
+Used Elbow Method to find optimal k ,
+Applied KMeans with 2 clusters ,
+Visualized clusters along with centroids.
 
 📊 Results
 
